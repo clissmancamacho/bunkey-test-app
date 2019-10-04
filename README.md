@@ -39,7 +39,7 @@ DB_HOST=mongodb://localhost:27017/db_bunkey_test
 ```bash
 npm install
 ```
-### 3) Go to src/environments and config your environments vars:
+### 3) Make in the root the .env file and paste this code with your own config:
 
 ```js
 REACT_APP_API_URL=YOUR_API_URL
